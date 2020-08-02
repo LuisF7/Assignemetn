@@ -6,7 +6,7 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d dst",
+    "deploy": "gh-pages -d pages",
     "lite": "lite-server"
   },
   "author": "",
